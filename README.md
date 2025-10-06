@@ -1,4 +1,4 @@
-## Hi there 👋
+## 黑料网 - 独家爆料 | 曝光揭秘 | 真相与内幕 | 黑料大事记 👋
 
 <!--
 **cn-heiliaobudayang/cn-heiliaobudayang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
